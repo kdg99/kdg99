@@ -4,7 +4,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kdg99&show_icons=true)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=artra)](https://solved.ac/백준아이디/)
 
-#### Language
+#### Platforms & Languages
 <p>
 <img src="https://img.shields.io/badge/java-1E8CBE?style=for-the-badge&logo=null&logoColor=white">
 <img src="https://img.shields.io/badge/vb-1E8CBE?style=for-the-badge&logo=null&logoColor=white">
