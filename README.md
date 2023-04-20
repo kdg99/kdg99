@@ -1,9 +1,8 @@
 <div align="center">
 
-###  Hello, I'm DongGeun👏
-#### 모두와 소통 가능한 개발자가 되겠습니다!
+## Kim Dong Geun👏
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kdg99&show_icons=true)  
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=artra)](https://solved.ac/백준아이디/)
 
 #### Language
 <p>
@@ -37,7 +36,7 @@
 
 
 
-### Contact
+### 📭Contacts
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kdg99)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](mailto:gpaj123ehdm@gmail.com)  
 </div>
