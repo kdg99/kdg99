@@ -40,6 +40,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kdg99)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](mailto:gpaj123ehdm@gmail.com) [<img src='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F9929C8455FEADCE219' alt='mail-dot-ru' height='50'>](https://kdg99.tistory.com)
 [<img src='https://upload.wikimedia.org/wikipedia/commons/3/34/Home-icon.svg' alt='mypage' height='40'>](http://kdg99.link) 
+  [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg' alt='mypage' height='40'>]([http://kdg99.link](https://flossy-toucan-bc9.notion.site/a551484ce7c24cf7b8923c09404a03d2)) 
 </div>
 
 
