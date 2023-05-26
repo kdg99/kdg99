@@ -34,13 +34,14 @@
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </p>
 
-
+### 📚Portfolio (Now ON -> Beauty)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/3/34/Home-icon.svg' alt='mypage' height='40'>](http://kdg99.link) 
 
 ### 📭Contacts
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kdg99)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](mailto:gpaj123ehdm@gmail.com) [<img src='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F9929C8455FEADCE219' alt='mail-dot-ru' height='50'>](https://kdg99.tistory.com)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/3/34/Home-icon.svg' alt='mypage' height='40'>](http://kdg99.link) 
-  [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg' alt='mypage' height='40'>](https://flossy-toucan-bc9.notion.site/a551484ce7c24cf7b8923c09404a03d2)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](mailto:gpaj123ehdm@gmail.com)
+[<img src='https://i.namu.wiki/i/71LLWgHgPBkFhyip-XI3gWL0eFwZPPgET94m1TDIM2_-juDsd-7mbi1q0utirpuONrLKoe0KMUsWGrlesGM2o8w5hADTxYVK-fDcYtZM6JgDW8aLB26bEDn2F2FqbT1GUshzH0_CmBAwrMW76ekdzw.svg' alt='mail-dot-ru' height='40'>](https://kdg99.tistory.com)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg' alt='mypage' height='40'>](https://flossy-toucan-bc9.notion.site/a551484ce7c24cf7b8923c09404a03d2)
 </div>
 
 
@@ -48,6 +49,8 @@
 저장소 사용언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdg99)](https://github.com/anuraghazra/github-readme-stats)
 
+contact github
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kdg99)
 
 **kdg99/kdg99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
