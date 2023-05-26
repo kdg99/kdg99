@@ -34,9 +34,10 @@
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </p>
 
-### 📚Portfolio (Now ON -> Beauty)
+### 📚Portfolio
 [<img src='https://upload.wikimedia.org/wikipedia/commons/3/34/Home-icon.svg' alt='mypage' height='40'>](http://kdg99.link) 
-
+#### (Now Running -> Beauty)
+  
 ### 📭Contacts
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](mailto:gpaj123ehdm@gmail.com)
